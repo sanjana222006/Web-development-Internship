@@ -1,5 +1,5 @@
 # Basics-of-web-development
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 <head>
   <title>My Basic Webpage</title>
